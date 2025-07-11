@@ -9,7 +9,7 @@
 I'm a passionate AI & Data Science student with a deep fascination for understanding and building intelligent systems from the ground up. My journey involves diving into the mathematical foundations of machine learning and implementing cutting-edge architectures from scratch.
 
 - 🔬 **Currently studying**: AI & Data Science
-- 🚀 **Focus areas**: Deep Learning, Natural Language Processing, Computer Vision
+- 🚀 **Focus areas**: Deep Learning, Natural Language Processing, Machine Learning
 - 💡 **Philosophy**: Learning by building - I believe in understanding every component deeply
 - 🎓 **Approach**: Theory + Implementation = True Understanding
 
@@ -43,7 +43,6 @@ Custom Python package for MongoDB operations and workflow automation.
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -53,11 +52,16 @@ Custom Python package for MongoDB operations and workflow automation.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### MLOps & DevOps
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Specializations
 - **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
 - **NLP**: Language Models, Machine Translation, Text Processing
-- **MLOps**: Model Deployment, Pipeline Automation, Version Control
-- **Computer Vision**: Image Processing, Object Detection
+- **MLOps**: Model Deployment, Pipeline Automation, Version Control, Experiment Tracking
+- **Machine Learning**: Classification, Regression, Feature Engineering
 
 </div>
 
@@ -78,6 +82,7 @@ Custom Python package for MongoDB operations and workflow automation.
 - 🌍 **Multilingual AI**: Developed English-to-Hindi translation systems
 - 📈 **End-to-End ML**: Created complete machine learning pipelines with deployment
 - 🔧 **Package Development**: Built and maintained Python packages for automation
+- 🛠️ **MLOps Practitioner**: Experienced with experiment tracking, versioning, and containerization
 
 ## 🎯 Current Focus
 
@@ -85,6 +90,7 @@ Custom Python package for MongoDB operations and workflow automation.
 - 📚 **Learning**: Latest developments in Large Language Models and multimodal AI
 - 🛠️ **Building**: More educational implementations of state-of-the-art models
 - 🌱 **Growing**: Contributing to open-source AI/ML projects
+- 🚀 **MLOps**: Streamlining ML workflows with modern tools and practices
 
 ## 🌐 Connect with Me
 
@@ -92,7 +98,7 @@ Custom Python package for MongoDB operations and workflow automation.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadgama-anand/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnandVadgama)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadgamaanand6@gmail.com)
 
 </div>
 
@@ -105,11 +111,6 @@ I believe that true mastery comes from understanding the fundamental principles 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnandVadgama&color=blueviolet&style=flat-square" alt="Profile Views" />
   
   **⭐ If you find my work interesting, please consider starring my repositories! ⭐**
 </div>
-
----
-
-*"Learning never exhausts the mind." - Leonardo da Vinci*
