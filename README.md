@@ -65,17 +65,6 @@ Custom Python package for MongoDB operations and workflow automation.
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandVadgama&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVadgama&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVadgama&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements & Highlights
 
 - 🤖 **From-Scratch Implementation Expert**: Built complex architectures like Transformer and LLaMA 2 from mathematical foundations
@@ -109,8 +98,3 @@ Custom Python package for MongoDB operations and workflow automation.
 I believe that true mastery comes from understanding the fundamental principles behind every algorithm and architecture. That's why I focus on implementing everything from the ground up - it's not just about using tools, but about truly comprehending how they work.
 
 ---
-
-<div align="center">
-  
-  **⭐ If you find my work interesting, please consider starring my repositories! ⭐**
-</div>
