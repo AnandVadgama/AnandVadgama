@@ -1,212 +1,191 @@
 <div align="center">
 
-<!-- Animated Header with More Height and Better Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Aanand%20Vadgama&fontSize=90&fontAlignY=30&animation=twinkling&fontColor=fff&desc=AI%20Architect%20%7C%20Deep%20Learning%20Engineer%20%7C%20From-Scratch%20Builder&descSize=22&descAlignY=51" />
+<!-- Animated Header with Gradient Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anand%20Vadgama&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Building%20AI%20from%20First%20Principles&descAlignY=55&descSize=22" width="100%"/>
 
 <!-- Multiple Animated Typing Lines -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=21C8F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%A7%A0+Building+Intelligence+from+First+Principles;%F0%9F%9A%80+Transformers+%7C+LLMs+%7C+Neural+Architectures;%F0%9F%94%A7+PyTorch+Wizard+%7C+MLOps+Enthusiast;%F0%9F%8C%8D+Creating+AI+That+Bridges+Languages;%F0%9F%94%AC+From+Math+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1000&color=21C8F6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+AI+%26+Deep+Learning+Engineer;%F0%9F%94%A5+PyTorch+Enthusiast+%7C+From-Scratch+Builder;%F0%9F%A6%99+LLaMA+2+%7C+Transformers+%7C+MLOps" alt="Typing SVG" />
 </a>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<!-- Enhanced Social Badges -->
+<!-- Enhanced Social Badges with Hover Effects -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vadgama-anand/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:vadgamaanand6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/AnandVadgama">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<!-- Enhanced Visitor Counter -->
+<!-- Profile Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnandVadgama&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/AnandVadgama?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/AnandVadgama?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars"/>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 <br/>
 
-## 🌟 < Who Am I />
+<!-- About Me Section with Code Block -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<div align="center">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```python
-class AanandVadgama:
+class AnandVadgama:
     """
-    🎓 AI & Data Science Student | 🇮🇳 India
-    Building the future, one neural network at a time
+    🎓 AI & Data Science Enthusiast | 🇮🇳 India
+    Building AI from Mathematics to Production
     """
     
     def __init__(self):
-        self.name = "Aanand Vadgama"
+        self.name = "Anand Vadgama"
         self.role = "AI & Deep Learning Engineer"
-        self.current_status = "🎯 Focusing on Advanced AI Architectures"
-        self.mission = "Understanding AI from Mathematics to Production"
+        self.philosophy = "Understanding > Using"
         
-    def get_philosophy(self):
-        return {
-            "approach": "First Principles Thinking",
-            "belief": "Understanding > Using",
-            "method": "Theory + Implementation = Mastery",
-            "goal": "Build, Break, Rebuild, Understand"
-        }
-    
-    def current_obsessions(self):
+    def current_focus(self):
         return [
-            "🤖 Building Transformers from scratch",
-            "🦙 Implementing LLaMA 2 architecture", 
-            "🔬 Exploring attention mechanisms",
-            "📊 Creating production ML pipelines",
-            "🌍 Building multilingual AI systems"
+            "🤖 Transformer Architectures from Scratch",
+            "🦙 LLaMA 2 Implementation",
+            "🚀 End-to-End ML Production Systems",
+            "📦 Python Package Development"
         ]
     
-    def tech_stack(self):
-        return {
-            "languages": ["Python 🐍", "SQL 📊"],
-            "deep_learning": ["PyTorch 🔥", "NumPy", "Pandas"],
-            "ml_tools": ["Scikit-learn", "Matplotlib", "Seaborn"],
-            "mlops": ["MLflow", "DVC", "Docker 🐳", "Git"],
-            "databases": ["MongoDB 🍃", "MySQL"],
-            "environments": ["Jupyter 📓", "VS Code"]
-        }
-
-# Let's build something amazing! 🚀
-me = AanandVadgama()
+    def approach(self):
+        return "First Principles → Implementation → Mastery"
 ```
 
+<br clear="right"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Animated Code GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
-</p>
+<br/>
+
+<!-- Project 1: Transformer -->
+### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> [Transformer from Scratch](https://github.com/AnandVadgama/pytorch-transformer-from-scratch)
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects That Define Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-### 🤖 [Transformer Architecture - Built From Mathematics](https://github.com/AnandVadgama/pytorch-transformer-from-scratch)
-
-<div align="center">
-
-![Transformer](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge&logo=semanticweb&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
 
 <details>
-<summary><b>🔍 Click to explore what makes this special</b></summary>
+<summary><b>🔍 Click to see implementation details</b></summary>
 
 <br/>
 
-**Why this matters:** Anyone can use Hugging Face. Few can build the Transformer that powers it.
-
-<div align="center">
+> **Complete PyTorch implementation of the Transformer architecture for English-to-Colloquial Hindi translation.**
 
 ```
-📦 What I Built:
-├── ✅ Complete Transformer (Attention is All You Need)
-├── ✅ Multi-Head Self-Attention Mechanism  
-├── ✅ Positional Encoding from Scratch
-├── ✅ Training Pipeline for Eng→Hindi Translation
-├── ✅ Attention Visualization Tools
-└── ✅ Full Mathematical Implementation
+📦 Architecture Components:
+├── ✅ Multi-Head Self-Attention Mechanism
+├── ✅ Positional Encoding (Sinusoidal)
+├── ✅ Encoder-Decoder Stack (N layers)
+├── ✅ Source & Target Embeddings
+├── ✅ Projection Layer
+└── ✅ Attention Visualization Tools
 
-🎯 Learning Outcomes:
-├── Deep understanding of attention mechanisms
-├── Mastery of sequence-to-sequence models
-├── Experience with multilingual NLP
-└── Skills in debugging complex architectures
+📁 Repository Structure:
+├── model.py          → Full Transformer implementation
+├── train.py          → Training loop & checkpointing
+├── inference.py      → Interactive inference script
+├── attention_visual.ipynb → Attention map visualization
+└── tokenizer_*.json  → Pretrained tokenizers
 ```
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+```mermaid
+flowchart LR
+    A[English Input] --> B[Tokenizer]
+    B --> C[Encoder]
+    C --> D[Attention]
+    D --> E[Decoder]
+    E --> F[Hindi Output]
+```
 
-</div>
-
-**Tech Stack:** `PyTorch` `NumPy` `Matplotlib` `Translation Models`
-
-**Complexity:** 🔴🔴🔴🔴⚪ Advanced | **Status:** ✨ Production Ready
+**🎯 Key Achievement:** Built the complete "Attention is All You Need" paper implementation from scratch!
 
 </details>
 
 <br/>
 
-### 🦙 [LLaMA 2 - Every Component From Scratch](https://github.com/AnandVadgama/Llama-2_from_scratch)
+---
+
+<!-- Project 2: LLaMA 2 -->
+### <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30"> [LLaMA 2 from Scratch](https://github.com/AnandVadgama/Llama-2_from_scratch)
 
 <div align="center">
 
-![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Advanced](https://img.shields.io/badge/Advanced-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white)
-![Research](https://img.shields.io/badge/Research-10B981?style=for-the-badge&logo=academia&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Research](https://img.shields.io/badge/Research-8B5CF6?style=for-the-badge&logo=academia&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
 
 <details>
-<summary><b>🔍 Click to see the full architecture breakdown</b></summary>
+<summary><b>🔍 Click to explore the LLaMA 2 architecture</b></summary>
 
 <br/>
 
-**The Challenge:** Meta releases LLaMA 2. Most use it. I rebuild it completely.
-
-<div align="center">
+> **Full implementation of LLaMA 2 featuring cutting-edge components for modern language models.**
 
 ```
-🏗️ Complete Implementation:
+🏗️ LLaMA 2 Components Implemented:
 ├── 🔄 Rotary Positional Embedding (RoPE)
-├── 📊 RMS Normalization  
+├── 📊 RMS Normalization
 ├── 🎯 Multi-Query Attention (MQA)
 ├── ⚡ Grouped Query Attention (GQA)
-├── 💾 KV Cache Optimization
+├── 💾 KV Cache for Fast Inference
 ├── 🔥 SwiGLU Activation Function
-├── 🧮 Full Model Architecture
-└── 📈 Training & Inference Pipelines
+└── 🧮 Complete Model Architecture (7B params structure)
 
-💡 Why This Matters:
-Understanding LLaMA 2 internals means understanding 
-the foundation of modern language models like GPT, 
-Claude, and Gemini.
+📁 Project Structure:
+├── model.py         → Full LLaMA 2 architecture
+├── inference.py     → Inference with KV caching
+├── download.sh      → Model weights downloader
+└── llama-2-7b/      → Weights & configurations
 ```
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200">
-
-</div>
-
-**Tech Stack:** `PyTorch` `Transformers` `Advanced NLP` `Model Optimization`
-
-**Complexity:** 🔴🔴🔴🔴🔴 Expert Level
+**💡 Why This Matters:** Understanding LLaMA 2 internals = Understanding the foundation of GPT, Claude, and Gemini!
 
 </details>
 
 <br/>
 
-### 🚗 [Vehicle Insurance - End-to-End ML Production](https://github.com/AnandVadgama/Proj-Vehicle_insurance-end_to_end)
+---
+
+<!-- Project 3: Vehicle Insurance -->
+### <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="30"> [Vehicle Insurance - End-to-End ML](https://github.com/AnandVadgama/Proj-Vehicle_insurance-end_to_end)
 
 <div align="center">
 
-![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Production](https://img.shields.io/badge/Production-2ECC71?style=for-the-badge&logo=docker&logoColor=white)
-![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20|%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -215,76 +194,83 @@ Claude, and Gemini.
 
 <br/>
 
-**From Data to Deployment:** A complete production-ready machine learning system.
-
-<div align="center">
+> **Production-ready ML pipeline for predicting vehicle insurance outcomes with full cloud deployment.**
 
 ```
-📊 Full ML Lifecycle:
+⚙️ End-to-End ML Lifecycle:
 ├── 📥 Data Ingestion & Validation
-├── 🔧 Feature Engineering Pipeline
-├── 🤖 Model Training & Selection
-├── 📈 Experiment Tracking (MLflow)
-├── 🔄 Version Control (DVC)
-├── 🐳 Containerization (Docker)
-├── 🚀 API Deployment (FastAPI)
-└── 📊 Model Monitoring
+├── 🔧 Data Transformation Pipeline
+├── 🤖 Model Training & Evaluation
+├── ☁️ AWS S3 Model Storage
+├── 🚀 AWS EC2 Deployment
+├── 🔄 CI/CD with GitHub Actions
+└── 🌐 FastAPI Web Application
 
-🎯 Business Impact:
-Predicts insurance risk with 87%+ accuracy,
-deployed as scalable REST API.
+🛠️ Tech Stack:
+├── scikit-learn    → ML Algorithms
+├── FastAPI         → REST API
+├── AWS S3/EC2      → Cloud Infrastructure
+├── Docker          → Containerization
+└── GitHub Actions  → CI/CD Pipeline
 ```
 
-<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200">
+```mermaid
+flowchart LR
+    A[Data] --> B[Validation]
+    B --> C[Transform]
+    C --> D[Train]
+    D --> E[S3]
+    E --> F[EC2 Deploy]
+    F --> G[Web App]
+```
 
-</div>
-
-**Tech Stack:** `Scikit-learn` `MLflow` `DVC` `Docker` `FastAPI` `MongoDB`
-
-**Type:** 🏭 Production System | **Accuracy:** 87%+
+**🎯 Production System:** Real-time predictions via deployed web interface!
 
 </details>
 
 <br/>
 
-### 📦 [Python Automation Package](https://github.com/AnandVadgama/my-py-package)
+---
+
+<!-- Project 4: Python Package -->
+### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> [Auto Connect MongoDB Package](https://github.com/AnandVadgama/my-py-package)
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Package](https://img.shields.io/badge/Package-FFA500?style=for-the-badge&logo=pypi&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
 
 <details>
-<summary><b>🔍 Discover the automation tools</b></summary>
+<summary><b>🔍 Explore the automation features</b></summary>
 
 <br/>
 
-**Building Tools:** Not just using them, but creating them for the community.
-
-<div align="center">
+> **Python package for seamless MongoDB operations with CSV/Excel bulk insert support.**
 
 ```
-🛠️ Package Features:
-├── 🔌 MongoDB Connection Manager
-├── 📊 Data Pipeline Automation
-├── 🔄 Workflow Orchestration  
-├── 📝 Logging & Error Handling
-└── 📦 PyPI Distribution Ready
+✨ Package Features:
+├── 🧩 Simple MongoDB Client Management
+├── 📥 Single & Multiple Record Inserts
+├── 📊 Bulk Insert from CSV/Excel
+├── ☁️ MongoDB Atlas Support
+├── 🔍 Find, Update, Delete Operations
+└── 🏷️ Type-Annotated & Tested
 
-💼 Use Cases:
-├─ Database operations automation
-├─ ETL pipeline management
-└─ Repeatable workflow execution
+📦 Installation:
+pip install Auto_connect_mongo
+
+🔧 Quick Usage:
+from Auto_connect_mongo.mongo_crud import mongo_operation
+mongo = mongo_operation(uri, db, collection)
+mongo.insert_record({"name": "AI"}, collection)
+mongo.bulk_insert("data.csv", collection)
 ```
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200">
-
-</div>
-
-**Tech Stack:** `Python` `MongoDB` `PyPI` `Package Development`
+**📦 Building Tools, Not Just Using Them!**
 
 </details>
 
@@ -294,161 +280,119 @@ deployed as scalable REST API.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Tech Arsenal & Superpowers
+## 💻 Tech Stack & Skills
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+<br/>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-### 🧠 AI & Machine Learning
+### 🧠 AI & Deep Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="50"/>
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-learn"/>
 </p>
 
 ```
-🔥 PyTorch - Neural Network Architect
-📊 NumPy - Mathematical Computing
-🐼 Pandas - Data Manipulation Master  
-📈 Scikit-learn - ML Algorithms
-🎨 Matplotlib & Seaborn - Visualization
+🔥 PyTorch - Deep Learning
+📊 NumPy & Pandas - Data
+📈 Scikit-learn - ML
+🎨 Matplotlib & Seaborn
 ```
 
 </td>
 <td align="center" width="50%">
 
-### 🛠️ MLOps & Development
+### 🛠️ MLOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=docker,git,vscode,aws&theme=dark" height="50"/>
+</p>
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI"/>
 </p>
 
 ```
-🐳 Docker - Containerization Pro
-📦 MLflow - Experiment Tracking
-🔄 DVC - Data Version Control
-🌿 Git - Version Control Expert
-💻 Jupyter & VS Code - Dev Environments
+🐳 Docker - Containers
+☁️ AWS S3/EC2 - Cloud
+⚡ FastAPI - APIs
+🔄 Git & CI/CD
 ```
 
 </td>
 </tr>
-
 <tr>
 <td align="center" width="50%">
 
-### 📊 Databases & APIs
+### 📊 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="50"/>
 </p>
 
 ```
-🍃 MongoDB - NoSQL Database
-🐬 MySQL - Relational Database
-⚡ FastAPI - API Development
+🍃 MongoDB & Atlas
+🐬 MySQL
+📦 Data Pipelines
 ```
 
 </td>
 <td align="center" width="50%">
 
-### 🎯 Core Specializations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="200"/>
-</p>
+### 🎯 Specializations
 
 ```
-🤖 Deep Learning
-   ├─ Transformers & Attention
-   ├─ CNNs & RNNs
-   └─ From-Scratch Implementations
-
-🔤 Natural Language Processing  
-   ├─ Language Models (LLaMA, GPT)
-   ├─ Machine Translation
-   └─ Text Generation
-
-📊 MLOps & Production
-   ├─ Model Deployment
-   ├─ Pipeline Automation
-   └─ Experiment Tracking
+🤖 Transformers & Attention
+🦙 Large Language Models
+📈 End-to-End ML Pipelines
+📦 Python Package Dev
+🚀 Production Deployment
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 <br/>
 
 <div align="center">
 
-## 📈 My Skill Journey
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 GitHub Stats
 
-### 🚀 Expertise Levels
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandVadgama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=21C8F6&icon_color=21C8F6&text_color=ffffff" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVadgama&theme=tokyonight&hide_border=true&background=0D1117&ring=21C8F6&fire=FF6B6B&currStreakLabel=21C8F6" width="49%" alt="GitHub Streak"/>
+</p>
 
-<table align="center" width="85%">
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVadgama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=21C8F6&text_color=ffffff" width="40%" alt="Top Languages"/>
 
-**Deep Learning & Neural Networks**
-<img src="https://progress-bar.dev/90/?title=Mastery&width=350&color=ff6347" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandVadgama&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=21C8F6&line=21C8F6&point=FF6B6B" width="98%" alt="Activity Graph"/>
 
-**PyTorch Framework**
-<img src="https://progress-bar.dev/85/?title=Expert&width=350&color=ee4c2c" />
-
-**Natural Language Processing**
-<img src="https://progress-bar.dev/80/?title=Advanced&width=350&color=00d9ff" />
-
-**MLOps & Deployment**
-<img src="https://progress-bar.dev/75/?title=Proficient&width=350&color=13adc7" />
-
-</td>
-<td width="50%">
-
-**Machine Learning Algorithms**
-<img src="https://progress-bar.dev/85/?title=Expert&width=350&color=f7931e" />
-
-**Data Processing & Analysis**
-<img src="https://progress-bar.dev/90/?title=Mastery&width=350&color=150458" />
-
-**Model Architecture Design**
-<img src="https://progress-bar.dev/80/?title=Advanced&width=350&color=21c8f6" />
-
-**Production Systems**
-<img src="https://progress-bar.dev/70/?title=Skilled&width=350&color=2496ed" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -456,157 +400,52 @@ deployed as scalable REST API.
 
 <div align="center">
 
-## 🏆 Achievements & Highlights
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎓 Academic Excellence
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+## 🎯 My Philosophy
 
 ```
-🎯 AI & Data Science Student
-📚 Deep Learning Specialist  
-🔬 Research-Oriented Mindset
-💡 First Principles Thinker
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "The best way to understand intelligence is to build it from scratch."     ║
+║                                                                               ║
+║   🧮 Mathematics → 💻 Code → 🧠 Understanding → 🚀 Innovation                  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 💻 Technical Mastery
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
-
-```
-🤖 From-Scratch Implementations
-🔧 Production ML Systems
-📦 Package Development
-🚀 MLOps Best Practices
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🌟 Impact
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
-
-```
-📖 Educational Resources
-🌍 Multilingual AI Systems
-🛠️ Open Source Tools
-🎯 Real-World Solutions
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 What Drives Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "The best way to understand intelligence is to build it."      ║
-║                                                                  ║
-║  I don't just use AI frameworks — I understand them by          ║
-║  rebuilding them from mathematical foundations.                 ║
-║                                                                  ║
-║  🧮 Mathematics → 💻 Code → 🧠 Understanding → 🚀 Innovation     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
+## 🤝 Let's Connect!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35%">
+  <a href="https://www.linkedin.com/in/vadgama-anand/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vadgamaanand6@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AnandVadgama">
+    <img src="https://img.shields.io/badge/Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-I'm always excited to discuss AI, collaborate on projects, or help fellow learners.
-
-### 📬 Reach Out
-
-<p>
-<a href="https://www.linkedin.com/in/vadgama-anand/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vadgamaanand6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/AnandVadgama">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-### 💬 I'm interested in
+### 💬 Open to
 
 ```
-🤝 Collaborating on AI/ML Projects
-💡 Discussing Deep Learning Architectures  
-🔬 Research Opportunities
-📚 Mentoring & Knowledge Sharing
-🚀 Building Impactful Solutions
+🤝 AI/ML Collaborations     📚 Knowledge Sharing
+💡 Research Discussions     🚀 Innovative Projects
 ```
 
 <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <em><b>Let's connect and build the future together!</b></em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+<em><b>Let's build the future of AI together!</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-### 🎓 "Learning never exhausts the mind" - Leonardo da Vinci
-
-**Thanks for stopping by! Let's build the future of AI together.** 🚀
-
-<br/>
-
-<!-- Snake Animation -->
+<!-- Snake Animation - Setup Required -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnandVadgama/AnandVadgama/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnandVadgama/AnandVadgama/output/github-contribution-grid-snake.svg">
@@ -615,7 +454,11 @@ I'm always excited to discuss AI, collaborate on projects, or help fellow learne
 
 <br/><br/>
 
+### ⭐ "Learning never exhausts the mind" - Leonardo da Vinci
+
+<br/>
+
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
